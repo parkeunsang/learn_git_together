@@ -5,3 +5,4 @@ Pair와 git remote 협업
 자라
 라면
 면발
+발가락
