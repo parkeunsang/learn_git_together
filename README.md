@@ -8,3 +8,4 @@ Pair와 git remote 협업
 발가락
 락스
 스리랑카
+카드
