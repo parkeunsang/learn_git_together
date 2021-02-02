@@ -7,3 +7,4 @@ Pair와 git remote 협업
 면발
 발가락
 락스
+스리랑카
