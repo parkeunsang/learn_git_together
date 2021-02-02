@@ -6,3 +6,4 @@ Pair와 git remote 협업
 라면
 면발
 발가락
+락스
